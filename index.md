@@ -6,8 +6,6 @@ nav_order: 1
 
 # Welcome to Djasa2288 Simple Site
 
-This is GitHub Page Site using Jekyll and the Just the Docs theme.
-
 Here, you can explore my projects, read my blog, learn more about me, and get in touch. Use the navigation menu to explore the different sections.
 
 ## Featured Projects
