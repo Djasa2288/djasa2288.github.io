@@ -1,0 +1,33 @@
+# _config.yml
+title: My Professional Site
+description: Welcome to my professional GitHub Pages site, showcasing my projects, blog, and more.
+theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+baseurl: "https://g.co/kgs/83yK4Nt"
+url: "https://djasa2288.github.io"
+twitter_username: Djasa2288
+github_username: Djasa2288
+
+# Build settings
+markdown: kramdown
+
+# Navigation configuration
+nav:
+  - title: "Home"
+    url: "/"
+    nav_order: 1
+  - title: "Projects"
+    url: "/projects/"
+    nav_order: 2
+  - title: "Blog"
+    url: "/blog/"
+    nav_order: 3
+  - title: "About"
+    url: "/about/"
+    nav_order: 4
+  - title: "Contact"
+    url: "/contact/"
+    nav_order: 5
+  - title: "Resume"
+    url: "/resume/"
+    nav_order: 6
