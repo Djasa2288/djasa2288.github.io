@@ -78,7 +78,5 @@ This site is deployed automatically via GitHub Pages.
 Push changes to the `main` branch and your site will update at:  
 `https://Djasa2288.github.io`
 
----
 
 **Happy Ending!**
-```
